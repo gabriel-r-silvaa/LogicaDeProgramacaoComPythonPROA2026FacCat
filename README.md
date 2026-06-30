@@ -72,8 +72,3 @@ A apostila cobre os fundamentos de lógica de programação: variáveis, operado
 
 O **Instituto PROA** é uma organização sem fins lucrativos que capacita e insere jovens de baixa renda no mercado de trabalho de forma gratuita. Este repositório faz parte das atividades práticas de **Lógica de Programação com Python** do curso **PROPROFISSÃO 2026**.
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
